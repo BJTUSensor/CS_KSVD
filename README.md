@@ -1,5 +1,6 @@
 # CS_KSVD
 Here, we have provieded the code we used for Brillouin Distributed fiber sensors as well as the paper. 
+  
   1.This code aims to reconstruct the original BGS by using  a compressed sensing method based on K-SVD algorithm.
     including:
     1. creat dictionary:   creat_dictionary.m     KSVD.m
